@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/aditi9012.github.io/static/css/main.bd8d4ceb.chunk.css",
+    "main.js": "/aditi9012.github.io/static/js/main.7f910c1b.chunk.js",
+    "main.js.map": "/aditi9012.github.io/static/js/main.7f910c1b.chunk.js.map",
+    "runtime-main.js": "/aditi9012.github.io/static/js/runtime-main.925a15d4.js",
+    "runtime-main.js.map": "/aditi9012.github.io/static/js/runtime-main.925a15d4.js.map",
+    "static/css/2.43b2b750.chunk.css": "/aditi9012.github.io/static/css/2.43b2b750.chunk.css",
+    "static/js/2.a831eb74.chunk.js": "/aditi9012.github.io/static/js/2.a831eb74.chunk.js",
+    "static/js/2.a831eb74.chunk.js.map": "/aditi9012.github.io/static/js/2.a831eb74.chunk.js.map",
+    "static/js/3.95e3c58d.chunk.js": "/aditi9012.github.io/static/js/3.95e3c58d.chunk.js",
+    "static/js/3.95e3c58d.chunk.js.map": "/aditi9012.github.io/static/js/3.95e3c58d.chunk.js.map",
+    "index.html": "/aditi9012.github.io/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/aditi9012.github.io/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.bd8d4ceb.chunk.css.map": "/aditi9012.github.io/static/css/main.bd8d4ceb.chunk.css.map",
+    "static/js/2.a831eb74.chunk.js.LICENSE.txt": "/aditi9012.github.io/static/js/2.a831eb74.chunk.js.LICENSE.txt",
+    "static/media/AditiVarshney.2991c034.jpg": "/aditi9012.github.io/static/media/AditiVarshney.2991c034.jpg",
+    "static/media/Ecommerce.97f8d22a.png": "/aditi9012.github.io/static/media/Ecommerce.97f8d22a.png",
+    "static/media/Git.d8231b4e.png": "/aditi9012.github.io/static/media/Git.d8231b4e.png",
+    "static/media/HtmlCss.fdd549b9.png": "/aditi9012.github.io/static/media/HtmlCss.fdd549b9.png",
+    "static/media/Javascript.b08bf619.png": "/aditi9012.github.io/static/media/Javascript.b08bf619.png",
+    "static/media/Postman.1356637e.jpg": "/aditi9012.github.io/static/media/Postman.1356637e.jpg",
+    "static/media/ReactJs.4c2d00e4.jpg": "/aditi9012.github.io/static/media/ReactJs.4c2d00e4.jpg",
+    "static/media/SubmitForm.7d2d6829.png": "/aditi9012.github.io/static/media/SubmitForm.7d2d6829.png",
+    "static/media/TipCalculator.a738c749.png": "/aditi9012.github.io/static/media/TipCalculator.a738c749.png",
+    "static/media/ToDoList.a25f91b1.jpg": "/aditi9012.github.io/static/media/ToDoList.a25f91b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.925a15d4.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.a831eb74.chunk.js",
+    "static/css/main.bd8d4ceb.chunk.css",
+    "static/js/main.7f910c1b.chunk.js"
+  ]
+}
