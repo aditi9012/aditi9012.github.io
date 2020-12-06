@@ -9,7 +9,7 @@ import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import ResumePage from './pages/ResumePage';
 import Carousel from 'react-bootstrap/Carousel';
-import Font, { Text } from 'react-font'
+import Font, { Text } from 'react-font';
 
 
 class App extends React.Component {
@@ -38,7 +38,7 @@ class App extends React.Component {
  render(){
   return (
     <Router>
-      <Container className="" fluid={true}>
+      <Container className="container-fluid" fluid={true}>
       <Navbar className="border-bottom" bg="transparent" expand="lg">
         <Navbar.Brand>
           <Font family='Viga'>
